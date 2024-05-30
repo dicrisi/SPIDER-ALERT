@@ -1,0 +1,92 @@
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\bin\Debug\sender.exe
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\bin\Debug\sender.pdb
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\obj\Debug\sender.Form1.resources
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\obj\Debug\sender.Properties.Resources.resources
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\obj\Debug\sender.exe
+C:\Documents and Settings\Ascentz\Desktop\sender\sender\obj\Debug\sender.pdb
+D:\To College 2013\Developement\Network project\sender\sender\obj\Debug\sender.exe
+D:\To College 2013\Developement\Network project\sender\sender\obj\Debug\sender.pdb
+D:\To College 2013\Developement\Network project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+D:\To College 2013\Developement\Network project\sender\sender\obj\Debug\sender.Form1.resources
+D:\To College 2013\Developement\Network project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+D:\To College 2013\Developement\Network project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+D:\To College 2013\Developement\Network project\sender\sender\bin\Debug\sender.exe
+D:\To College 2013\Developement\Network project\sender\sender\bin\Debug\sender.pdb
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\obj\Debug\sender.exe
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\obj\Debug\sender.pdb
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\bin\Debug\sender.exe
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\bin\Debug\sender.pdb
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\obj\Debug\sender.Form1.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\obj\Debug\sender.exe
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\obj\Debug\sender.pdb
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\bin\Debug\sender.exe
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\bin\Debug\sender.pdb
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\obj\Debug\sender.Form1.resources
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\obj\Debug\sender.exe
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\obj\Debug\sender.pdb
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\bin\Debug\sender.exe
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\bin\Debug\sender.pdb
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\obj\Debug\sender.Form1.resources
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.exe
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.pdb
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\bin\Debug\sender.exe
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\bin\Debug\sender.pdb
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.Form1.resources
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.Form2.resources
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.Newuser.resources
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.Adminhome.resources
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.ViewdataTransaction.resources
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\sender\sender\obj\Debug\sender.Viewuser.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.exe
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.pdb
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\bin\Debug\sender.exe
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\bin\Debug\sender.pdb
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Adminhome.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Form1.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Form2.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Newuser.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.ViewdataTransaction.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Viewuser.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.exe
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.pdb
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\bin\Debug\sender.exe
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\bin\Debug\sender.pdb
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Adminhome.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Form1.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Form2.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Newuser.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.ViewdataTransaction.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Viewuser.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.exe
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.pdb
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\bin\Debug\sender.exe
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\bin\Debug\sender.pdb
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\ResolveAssemblyReference.cache
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Adminhome.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Form1.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Form2.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Newuser.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Properties.Resources.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.ViewdataTransaction.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.Viewuser.resources
+J:\SPIDER ALERT\SPIDER ALERT\virus project\sender\sender\obj\Debug\sender.csproj.GenerateResource.Cache

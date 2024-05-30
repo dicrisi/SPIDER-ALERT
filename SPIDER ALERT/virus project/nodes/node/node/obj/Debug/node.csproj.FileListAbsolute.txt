@@ -1,0 +1,61 @@
+C:\Documents and Settings\Ascentz\Desktop\node\node\bin\Debug\node.exe
+C:\Documents and Settings\Ascentz\Desktop\node\node\bin\Debug\node.pdb
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.Form1.resources
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.Properties.Resources.resources
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.exe
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.pdb
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.home.resources
+C:\Documents and Settings\Ascentz\Desktop\node\node\obj\Debug\node.login.resources
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.exe
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.pdb
+C:\Documents and Settings\user\Desktop\node\node\bin\Debug\node.exe
+C:\Documents and Settings\user\Desktop\node\node\bin\Debug\node.pdb
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.Form1.resources
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.home.resources
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.login.resources
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\node\node\obj\Debug\node.csproj.GenerateResource.Cache
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.exe
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.pdb
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\bin\Debug\node.exe
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\bin\Debug\node.pdb
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\ResolveAssemblyReference.cache
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.Form1.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.home.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.login.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.Monitoring.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.Properties.Resources.resources
+D:\To College 2013\Engg\Nehru\cse\ok\Modeling Propagation Dynamics\Document\project\nodes\node\node\obj\Debug\node.csproj.GenerateResource.Cache
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\obj\Debug\node.exe
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\obj\Debug\node.pdb
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\bin\Debug\node.exe
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\bin\Debug\node.pdb
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\obj\Debug\node.Monitoring.resources
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\obj\Debug\node.Properties.Resources.resources
+E:\Projects in my lap\Development 2013\Modeling Propagation Dynamics\project\nodes\node\node\obj\Debug\node.csproj.GenerateResource.Cache
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\nodes\node\node\obj\Debug\node.exe
+E:\To College 2014\Arts\GRD\BCA\OK\system spy\new\virus project\nodes\node\node\obj\Debug\node.pdb
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\nodes\node\node\obj\Debug\node.exe
+G:\To College 2016\Techspine\Arts\Krishna\Bsc CS\Full project\SPIDER ALERT\virus project spider alsert\virus project\nodes\node\node\obj\Debug\node.pdb
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.exe
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.pdb
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\bin\Debug\node.exe
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\bin\Debug\node.pdb
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\ResolveAssemblyReference.cache
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.Monitoring.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.Properties.Resources.resources
+H:\To College 2021\Techspine\Arts\GRD\BSC CS\OK\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.csproj.GenerateResource.Cache
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.exe
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.pdb
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\bin\Debug\node.exe
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\bin\Debug\node.pdb
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\ResolveAssemblyReference.cache
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.Monitoring.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.Properties.Resources.resources
+I:\To College 2023\Arts\Pioneeer\BSC cs\ok\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.csproj.GenerateResource.Cache
+J:\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.exe
+J:\SPIDER ALERT\SPIDER ALERT\virus project\nodes\node\node\obj\Debug\node.pdb
